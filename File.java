@@ -2,6 +2,6 @@
 
 class File {
     public static void main(String[] args) {
-        System.out.println("Hello, Shashidhar!");
+        System.out.println("Bye, Shashidhar!");
     }
 }
